@@ -2,7 +2,7 @@
 FROM jboss/wildfly:23.0.2.Final
 
 ####### MAINTAINER ############
-MAINTAINER "Roger Martinez" "romartin@redhat.com"
+MAINTAINER "Richard Braman" "richard.braman@fhirfly.io"
 
 ####### LOCALE ############
 ENV LANG en_US.UTF-8
